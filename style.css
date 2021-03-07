@@ -1,0 +1,87 @@
+h1{
+    position: relative;
+    text-align: center;
+   color: white;
+  top : 40px;
+ 
+}
+.head{
+    /*text-align: center;
+    background-color:hsl(19, 92%, 49%);
+    color: white;
+    font-size: 20px;
+    ;*/
+    background-image: linear-gradient(to right,#18f0e9,#20a192);
+    height: 10rem;
+    margin-bottom: 15%
+}
+.img{
+    position: relative;
+    bottom: 395px;
+    margin-left:10%;
+
+
+
+}
+
+.contact{
+position: relative;
+    margin-left:8%;
+    bottom: 80%;
+
+}
+.hr2{
+    position: relative;
+  
+    width: 570px;
+  
+    border:3px solid hsl(19, 92%, 49%); 
+ 
+
+}
+hr{
+    border:3px solid hsl(19, 92%, 49%);
+}
+.c2{
+    position: relative;
+     bottom: 48%;
+    right: 13%;
+}
+.skills{
+    position: relative;
+    bottom:520px;
+    left: 5%;
+}
+
+.c4{
+
+    position: relative;
+    bottom: 510px;
+    left: 3%;
+}
+
+.c5{
+
+    position: relative;
+     bottom: 400px;
+    right: 13%;
+}
+
+.c7{
+    position: relative;
+    bottom: 400px;
+   right: 13%;
+}
+.obj{
+
+    position: relative;
+    bottom:46%;
+    right:14%;
+}
+p,li{
+    font-weight: bold;
+    te
+}
+h1,h2{
+    text-transform:uppercase;
+}
